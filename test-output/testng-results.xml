@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T23:05:34 IST" name="Suite" finished-at="2024-02-05T23:05:40 IST" duration-ms="6091">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T23:05:34 IST" name="Test" finished-at="2024-02-05T23:05:40 IST" duration-ms="6091">
+      <class name="TestNG.Annotations">
+        <test-method is-config="true" signature="BeforeSuitMethod()[pri:0, instance:TestNG.Annotations@32502377]" started-at="2024-02-05T23:05:34 IST" name="BeforeSuitMethod" description="Verify Before Suit" finished-at="2024-02-05T23:05:34 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuitMethod -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:TestNG.Annotations@32502377]" started-at="2024-02-05T23:05:34 IST" name="BeforeClass" finished-at="2024-02-05T23:05:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestNG.Annotations@32502377]" started-at="2024-02-05T23:05:34 IST" name="BeforeMethod" finished-at="2024-02-05T23:05:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="launchURL()[pri:0, instance:TestNG.Annotations@32502377]" started-at="2024-02-05T23:05:34 IST" name="launchURL" finished-at="2024-02-05T23:05:40 IST" duration-ms="6037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestNG.Annotations@32502377]" started-at="2024-02-05T23:05:40 IST" name="AfterMethod" finished-at="2024-02-05T23:05:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterSuitMethod()[pri:0, instance:TestNG.Annotations@32502377]" started-at="2024-02-05T23:05:40 IST" name="AfterSuitMethod" finished-at="2024-02-05T23:05:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuitMethod -->
+      </class> <!-- TestNG.Annotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
