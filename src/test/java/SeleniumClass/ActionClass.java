@@ -12,12 +12,12 @@ public class ActionClass {
         driver.manage().window().maximize();
         
         WebElement MoveCursor= driver.findElement(By.xpath("//span[@id=\'blogsmenu\']"));
-        
+		
         Actions a= new Actions(driver);
         //a.moveToElement(MoveCursor).build().perform();
         
         a.contextClick(MoveCursor).build().perform();
-        
+		
        WebElement UserId= driver.findElement(By.xpath("//form[@name='form1']//input[@type='text']"));
        a.sendKeys(UserId, "Minal").build().perform();
        
